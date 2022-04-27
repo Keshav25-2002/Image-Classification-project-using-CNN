@@ -14,10 +14,11 @@ Libraries Used:
 
 2.Matplotlib
 
-3.Scikitlearn
+3.Scikit-learn
 
-4. Keras
+4.Keras
 
-5. Tensorflow 
+5.Tensorflow 
+
 
 Environment: Google Colab 
